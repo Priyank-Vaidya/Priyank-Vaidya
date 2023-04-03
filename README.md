@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, JavaScript, NodeJs, ExpressJs, Mongoose**
 
-- 📫 How to reach me **priyankvaidya09@gmail.com**
+- 📫 How to reach me **priyankhvaidya@gmail.com**
 
 - ⚡ Fun fact **Constantly Learning and Exploring different Tech Stuffs**
 

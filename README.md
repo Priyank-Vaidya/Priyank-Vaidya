@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Portfolio-website](https://github.com/Priyank-Vaidya/Portfolio-Website)
 
-- 🌱 I’m currently learning **Backend Development and MERN Stack**
+- 🌱 I’m currently learning **DevSecOps, Ansible, Terraform, AWS, and Azure**
 
 - 👯 I’m looking to collaborate on [TechStrap](https://twitter.com/TechStrap4devs)
 

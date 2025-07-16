@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br><br>  🔭 I’m currently working on [ChatOps Project](https://github.com/Priyank-Vaidya/ChatOps)
-<br><br>- 🌱 I’m currently learning **DevSecOps, Ansible, Terraform, AWS, and Azure**<br><br>- 👯 I’m looking to collaborate on [TechStrap](https://twitter.com/TechStrap4devs)<br><br>    - 👨‍💻 All of my projects are available at [https://github.com/Priyank-Vaidya](https://github.com/Priyank-Vaidya)<br><br>- 💬 Ask me about **Tech insighs and Community Building**<br><br>- 📫 How to reach me **priyankhvaidya@gmail.com**<br><br>- ⚡ Fun fact **Constantly Learning and Exploring from different Tech Community**<br>
+<br><br>- 🌱 I’m currently learning **Backend, Data, Distributed Systems**<br><br>- 👯 I’m looking to collaborate on [TechStrap](https://twitter.com/TechStrap4devs)<br><br>    - 👨‍💻 All of my projects are available at [https://github.com/Priyank-Vaidya](https://github.com/Priyank-Vaidya)<br><br>- 💬 Ask me about **Tech insighs and Community Building**<br><br>- 📫 How to reach me **priyankhvaidya@gmail.com**<br><br>- ⚡ Fun fact **Constantly Learning and Exploring from different Tech Community**<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=Priyank-Vaidya&icon=5&color=2)](https://visitcount.itsvg.in)
